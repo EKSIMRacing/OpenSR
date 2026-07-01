@@ -1,4 +1,4 @@
-# Open Sim Relay (OpenSR)   Recently updated !
+# Open Sim Relay (OpenSR)
 
 Any Game In. Any Hardware Out. The open platform that connects your sim racing hardware to every game.
 
@@ -12,7 +12,7 @@ It is designed for sim racers, telemetry enthusiasts, hardware developers, or an
 > Cheers!  
 > Zappadoc
 
-DOWNLOAD
+[DOWNLOAD](https://www.eksimracing.org/opensr/)
 
 ***Status:*** *OpenSR Early Access Available*
 
