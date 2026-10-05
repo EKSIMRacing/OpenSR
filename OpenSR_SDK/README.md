@@ -3,7 +3,7 @@
 The OpenSR SDK provides the interfaces, structures, and conventions required to create plugins for the OpenSR ecosystem.
 OpenSR is a modular, host-driven platform: telemetry producers (games), hardware outputs, dashboards, overlays, and configuration systems are all implemented as independent plugins. 
 
-The OpenSR SDK is now available in early access for developers building plugins for OpenSR ([contact us](https://www.eksimracing.org/contact-us/)). During this development phase, you can access the SDK on our forum. Once OpenSR reaches its final release, the SDK will be uploaded to our GitHub repository for broader distribution and also included in the full installer of the app.
+The OpenSR SDK is now available for developers building plugins for OpenSR. During this development phase, you can get the SDK here on this repo and support to registered developer is available on our forum.
 
 With the SDK you can build:
 
