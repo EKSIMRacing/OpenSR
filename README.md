@@ -254,6 +254,21 @@ MK2 and XL v1/v2 as backend of VDASH-EMU For Windows
 **AMC Thanos Controller**  
 OpenSR now supports the AMC Thanos motion controller as a backend of 3DOF Motion Simulator plugin (still a w.i.p….), enabling direct control of compatible motion platforms with low-latency telemetry and seamless integration through the OpenSR plugin system.
 
+**Arduino Compatible Boards:**  
+SparkFun Pro Micro (32u4)  
+Raspberry Pi Pico  
+Raspberry Pi Pico W  
+Raspberry Pi Pico 2  
+Raspberry Pi Pico 2 W  
+Arduino Micro  
+Arduino Leonardo  
+Freenove ESP32-S3 VROOM-1  
+Waveshare ESP32-S3 DevKitC-1  
+Seeed Studio XIAO ESP32-S3  
+Adafruit Trinket M0  
+Adafruit ItsyBitsy M0  
+Adafruit ItsyBitsy M4
+
 In addition to supporting USB devices and displays, OpenSR also have a native support of VDASH-EMU for Android and Windows.
 
 More devices and apps will be supported. Check the supported devices and applications list on the website for the latest compatibility information.
