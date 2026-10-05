@@ -19,23 +19,15 @@ It is designed for sim racers, telemetry enthusiasts, hardware developers, or an
 ### Key Features
 
 - **Modular Plugin System**: Two plugin types: IN plugins capture telemetry from games or applications, OUT plugins send processed data to hardware, dashboards, motion systems, or any external target.
-
 - Built-in **Dashboard**: Central interface to manage Smart Launcher automation, enable or disable plugins, manage per plugin settings, and handle game profiles.
-
 - **Smart Launcher**: Event based automation system to launch programs or scripts on button press, key input, or game start.
-
 - **Macros**: Integrated macro system to simulate keystroke on button/encoder press or on using rotary switch,
-
+- **Arduino Projects:** New integrated Arduino Project, making it easier to build your own custom RGB LED and input controllers.
 - **Game and Device Plugins**: Support for major games and a wide range of hardware including Thrustmaster, Fanatec, Leo Bodnar SLI display devices, SIM Display display devices, VDASH-EMU digital dashboard, Vocore LCD, Stream Deck and more.
-
 - Built-in **Flexible Configuration System**: Each plugin manages its own optional configuration using XML, JSON, INI, or custom DLL based settings.
-
 - **Shared Memory Core**: Lightweight communication layer between plugins and external applications.
-
 - **Shared Blob Data**: Custom data exchange space for advanced or experimental integrations without modifying the core.
-
 - **Hot Plug** Support: Devices can be connected or disconnected at runtime, even during a live game session, without restarting the server or the game.
-
 - **Developer SDK**: Headers, tools, and full source sample plugins to build additional IN and OUT integrations.
 
 ### Use Cases
