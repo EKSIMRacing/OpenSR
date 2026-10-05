@@ -14,7 +14,7 @@ It is designed for sim racers, telemetry enthusiasts, hardware developers, or an
 
 [DOWNLOAD](https://www.eksimracing.org/opensr/)
 
-***Status:*** *OpenSR Early Access Available*
+***Status:*** *OpenSR Available for download*
 
 ### Key Features
 
