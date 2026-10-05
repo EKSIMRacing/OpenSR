@@ -66,74 +66,66 @@ Yes. OpenSR is free to use (no license or registration needed). The core applica
 
 **Which games are supported?**  
 Any game can be supported by writing a dedicated *Game plugin*. OpenSR will support a wide range of major racing titles, including but not limited to:  
-***Studio 397***  
-Le Mans Ultimate,  
-rFactor Pro**,  
-rFactor 2,  
-***iRacing***  
-iRacing,  
-***Kunos Simulazioni***  
-Assetto Corsa Pro**,  
-Assetto Corsa Rally,  
-Assetto Corsa EVO,  
-Assetto Corsa Competizione,  
-Assetto Corsa,  
-***KW Studios (Sector3)***  
-RaceRoom Racing Experience,  
-***All EA / CodeMasters games***  
-*WRC*  
-EA SPORTS WRC 2023,  
-*F1 Games*  
-Codemasters / EA F1 25,  
-Codemasters / EA F1 24,  
-Codemasters / EA F1 23,  
-Codemasters / EA F1 22,  
-EA Grid Legends,  
-***All CodeMasters games***  
-Codemasters F1 2021,  
-Codemasters F1 2020,  
-Codemasters F1 2019,  
-Codemasters DiRT Rally 2.0,  
-Codemasters F1 2018,  
-Codemasters F1 2017,  
-Codemasters DiRT 4,  
-Codemasters DiRT Rally,  
-Codemasters F1 2016,  
-Codemasters F1 2015,  
-Codemasters F1 2014,  
-Codemasters F1 2013,  
-Codemasters F1 2012,  
-Codemasters F1 2011,  
-Codemasters F1 2010,  
-Codemasters GRID Autosport,  
-Codemasters GRID2,  
-Codemasters DiRT3,  
-Codemasters DiRT2,  
-Codemasters GRID,  
-***ALL REIZA Studios***  
-Automobilista 2,  
-***SMS Games****  
-Project CARS 3,*  
-Project CARS 2,  
-Project CARS,  
-***Others***  
-Forza Motorsport 2023,  
-Forza Horizon 4,  
-Forza Horizon 5,  
-Forza Motorsport 7,  
-BeamNG Drive,  
-KartKraft (Black Delta),  
-PiBoSo Kart Racing Pro,  
-PiBoSo MX Bikes,  
-PiBoSo GP Bikes,  
-PiBoSo World Racing Series,  
-GRally,  
-Live For Speed  
-***SCS Software Truck Sim:***  
-Euro Truck Simulation 2,  
 American Truck Simulator  
+Assetto Corsa Pro**  
+Assetto Corsa  
+Assetto Corsa Competizione  
+Assetto Corsa EVO  
+Assetto Corsa Rally  
+Automobilista 2  
+BeamNG Drive  
+DCS Motion  
+DiRT4  
+DiRT Rally  
+DiRT Rally 2.0  
+EA F1 22  
+EA F1 23  
+EA F1 24  
+EA F1 25  
+EA Grid Legends  
+EA SPORTS WRC 2023  
+Euro Truck Simulator 2  
+F1 2010  
+F1 2011  
+F1 2012  
+F1 2013  
+F1 2014  
+F1 2015  
+F1 2016  
+F1 2017  
+F1 2018  
+F1 2019  
+F1 2020  
+F1 2021  
+Forza Horizon 4  
+Forza Horizon 5  
+Forza Horizon 6  
+Forza Motorsport 2023  
+GRID Autosport  
+GRID2  
+GT Legends  
+GTR2  
+iRacing  
+KartKraft  
+Le Mans Ultimate  
+Live For Speed  
+GRally*  
+GP Bikes*  
+Kart Racing Pro  
+MX Bikes  
+Project CARS  
+Project CARS 2  
+Project CARS 3*  
+Project Motor Racing  
+RaceRoom Racing Experience  
+rFactor  
+rFactor Pro**  
+rFactor 2  
+Richard Burns Rally  
+WRC Generations  
+Wreckfest 2
 
-*** special version for PRO available on demand* (not free)
+*** special version for PRO available on demand*, contact us.
 
 **What are the system requirements for OpenSR?**
 
