@@ -1,0 +1,4 @@
+<settings>
+    <option name="DATA OUT IP ADDRESS" tooltip="Enter IP address" type="text">127.0.0.1</option>
+    <option name="DATA OUT PORT" tooltip="Set the UDP port" type="slider" range="1024,65535">9999</option>
+</settings>
