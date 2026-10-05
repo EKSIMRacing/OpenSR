@@ -1,0 +1,7 @@
+<settings type="unique">
+    <option name="device update delay (ms)" tooltip="Delay between consecutive device updates in milliseconds (affects responsiveness)" id="device-update-delay" type="slider" range="10,1000">20</option>
+    <option name="hold info display delay after pause" tooltip="Time (in seconds) to keep the information display visible after a pause" id="info-display-delay" type="slider" range="1,15">6</option>
+    <option name="global brightness" id="global-brightness" tooltip="Overall brightness of the display or LEDs (1 = dimmest, 100 = brightest)" type="slider" range="1,100">50</option>
+    <option name="out udp ip" tooltip="Enter IP address" id="udp-ip" type="text">127.0.0.1</option>
+    <option name="out udp port" tooltip="Set the UDP port" id="udp-port" type="number">4441</option>
+</settings>

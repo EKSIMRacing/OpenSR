@@ -1,0 +1,30 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly CSharpPluginBridge, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class CSharpPluginBridge.PluginWrapper: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    InitializeBridge(): PrivateScope, Public, Static, HideBySig
+    CS_Init(Void*, Void*, Char*): PrivateScope, Public, Static, HideBySig
+    CS_Start(): PrivateScope, Public, Static, HideBySig
+    CS_Pause(): PrivateScope, Public, Static, HideBySig
+    CS_Resume(): PrivateScope, Public, Static, HideBySig
+    CS_IsRunning(): PrivateScope, Public, Static, HideBySig
+    CS_Stop(): PrivateScope, Public, Static, HideBySig
+    CS_Shutdown(): PrivateScope, Public, Static, HideBySig
+    CS_OnContextChanged(Int32): PrivateScope, Public, Static, HideBySig
+    CS_IsSettingsReady(): PrivateScope, Public, Static, HideBySig
+    CS_GetMeta(Int32, SByte*, Int32): PrivateScope, Public, Static, HideBySig
+    CS_GetMetaW(Int32, Char*, Int32): PrivateScope, Public, Static, HideBySig
+    CS_GetPluginType(): PrivateScope, Public, Static, HideBySig
+    CS_CheckDevice(): PrivateScope, Public, Static, HideBySig
+    CS_IsCheckingAllowed(): PrivateScope, Public, Static, HideBySig
+    CS_GetSharedPointer(): PrivateScope, Public, Static, HideBySig

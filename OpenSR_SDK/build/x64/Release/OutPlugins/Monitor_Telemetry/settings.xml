@@ -1,0 +1,4 @@
+<settings type="unique">
+    <option name="Show External Monitor Window At Startup" id="toggle-external-win" type="bool">false</option>
+    <option name="plugin update delay (ms)" tooltip="Delay between consecutive plugin updates in milliseconds (affects responsiveness)" id="plugin-update-delay" type="slider" range="10,1000">200</option>
+</settings>

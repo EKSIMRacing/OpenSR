@@ -1,0 +1,11 @@
+<settings type="unique">
+    <!-- UDP SETTINGS -->
+    <option name="separator" id="separator" type="separator">Sample Settings XML</option>
+    <option name="ip" id="ip" tooltip="ip example" type="ip">127.0.0.1</option>
+    <option name="port" id="port" tooltip="text with filter example" type="number">45555</option>
+    <!-- SETTINGS -->
+    <option name="separator" id="separator" type="separator">A simple separator</option>
+    <option name="device update delay (ms)" tooltip="slider example" id="device-update-delay" type="slider" range="10,1000">10</option>
+    <option name="stroke" id="stroke" tooltip="enum example" type="enum" enum="100,150">100</option>
+    <option name="3D view allowed" tooltip="toggle switch example" id="global-scale" type="bool">true</option>
+</settings>

@@ -1,0 +1,3 @@
+<settings type="unique">
+    <option name="device update delay (ms)" tooltip="Delay between consecutive device updates in milliseconds (affects responsiveness)" id="device-update-delay" type="slider" range="1,1000">16</option>
+</settings>

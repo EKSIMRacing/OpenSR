@@ -1,0 +1,9 @@
+<settings type="unique">
+    <option name="ip" id="ip" type="text">127.0.0.1</option>
+    <option name="port" id="port" type="number">40444</option>
+    <option name="Motion Data Rate (ms)" id="motionRate" type="slider" range="1,150">1</option>
+    <option name="Vehicle Data Rate (ms)" id="vehicleStateRate" type="slider" range="1,150">16</option>
+    <option name="Session Data Rate (ms)" id="sessionRate" type="slider" range="1,150">100</option>
+    <option name="Wheels Data Rate (ms)" id="wheelsRate" type="slider" range="1,150">100</option>
+    <option name="Players Data Rate (ms)" id="playerRecordsRate" type="slider" range="1,150">16</option>
+</settings>
