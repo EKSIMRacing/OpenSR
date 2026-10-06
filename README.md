@@ -1,3 +1,7 @@
+<div align="center">
+  <a href="https://www.eksimracing.org/opensr/"><img src="assets/openSR_app_icon256.png" alt="OpenSR"></a>
+</div>
+
 # Open Sim Relay (OpenSR)
 
 Any Game In. Any Hardware Out. The open platform that connects your sim racing hardware to every game.
@@ -8,13 +12,16 @@ OpenSR provides a flexible, plugin-based architecture that collects telemetry fr
 
 It is designed for sim racers, telemetry enthusiasts, hardware developers, or anyone who wants to connect virtual data to real-world systems in a fully adaptable way.
 
+![Dashboard](assets/2026-09-17_dashboard.jpg)
+
 > OpenSR is the new free application that replaces everything I have developed for the sim racing community since 2007. You could say this is my legacy project. No licenses, no activation fees, no paid versions. OpenSR is free for everyone.  
 > Cheers!  
 > Zappadoc
 
-[DOWNLOAD](https://www.eksimracing.org/opensr/)
-
-***Status:*** *OpenSR Available for download*
+<div align="center">
+  <a href="https://www.eksimracing.org/opensr/"><img src="assets/download_blue.png" alt="Download"><br></a>
+  <a href="https://www.eksimracing.org/opensr/">OpenSR Available for download</a>
+</div>
 
 ### Key Features
 
@@ -523,3 +530,13 @@ We would love to hear your feedback. Visit the OpenSR forum to:
 - Help shape the future of the project
 
 Community feedback is extremely valuable during the Early Access period.
+
+### screenshots
+
+![EA Game Plugins](assets/2026-06-osr_ea_game_plugins.jpg)
+
+![SliPro Plugin Game Profile](assets/2026-06-osr_slipro_plugin_game_profile.jpg)
+
+![OSR Arduino Projects](assets/2026-06-osr_arduino_prjs.jpg)
+
+
